@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07D10A9C-5E97-402F-8412-38E0AF8B7178}|Tcp_Server.Server\\Tcp_Server.Server.csproj|c:\\users\\viktor\\documents\\github\\side-projects\\csharp\\tcp_server\\tcp_server.server\\clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D10A9C-5E97-402F-8412-38E0AF8B7178}|Tcp_Server.Server\\Tcp_Server.Server.csproj|solutionrelative:tcp_server.server\\clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D105371F-DDF1-495D-BCE2-8DF431AE65BA}|Program\\Program.csproj|c:\\users\\viktor\\documents\\github\\side-projects\\csharp\\tcp_server\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D105371F-DDF1-495D-BCE2-8DF431AE65BA}|Program\\Program.csproj|solutionrelative:program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D10A9C-5E97-402F-8412-38E0AF8B7178}|Tcp_Server.Server\\Tcp_Server.Server.csproj|c:\\users\\viktor\\documents\\github\\side-projects\\csharp\\tcp_server\\tcp_server.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D10A9C-5E97-402F-8412-38E0AF8B7178}|Tcp_Server.Server\\Tcp_Server.Server.csproj|solutionrelative:tcp_server.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D10A9C-5E97-402F-8412-38E0AF8B7178}|Tcp_Server.Server\\Tcp_Server.Server.csproj|c:\\users\\viktor\\documents\\github\\side-projects\\csharp\\tcp_server\\tcp_server.server\\clientworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D10A9C-5E97-402F-8412-38E0AF8B7178}|Tcp_Server.Server\\Tcp_Server.Server.csproj|solutionrelative:tcp_server.server\\clientworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91DE82-18BA-416C-BF79-CFD2CC9B32DE}|Tcp_Server.Client\\Tcp_Server.Client.csproj|c:\\users\\viktor\\documents\\github\\side-projects\\csharp\\tcp_server\\tcp_server.client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91DE82-18BA-416C-BF79-CFD2CC9B32DE}|Tcp_Server.Client\\Tcp_Server.Client.csproj|solutionrelative:tcp_server.client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D10A9C-5E97-402F-8412-38E0AF8B7178}|Tcp_Server.Server\\Tcp_Server.Server.csproj|c:\\users\\viktor\\documents\\github\\side-projects\\csharp\\tcp_server\\tcp_server.server\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D10A9C-5E97-402F-8412-38E0AF8B7178}|Tcp_Server.Server\\Tcp_Server.Server.csproj|solutionrelative:tcp_server.server\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91DE82-18BA-416C-BF79-CFD2CC9B32DE}|Tcp_Server.Client\\Tcp_Server.Client.csproj|c:\\users\\viktor\\documents\\github\\side-projects\\csharp\\tcp_server\\tcp_server.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91DE82-18BA-416C-BF79-CFD2CC9B32DE}|Tcp_Server.Client\\Tcp_Server.Client.csproj|solutionrelative:tcp_server.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Tcp_Server.Server\\Message.cs",
+              "RelativeDocumentMoniker": "Tcp_Server.Server\\Message.cs",
+              "ToolTip": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Tcp_Server.Server\\Message.cs",
+              "RelativeToolTip": "Tcp_Server.Server\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:38:55.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Tcp_Server.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Tcp_Server.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Tcp_Server.Server\\Program.cs",
+              "RelativeToolTip": "Tcp_Server.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:40:52.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Tcp_Server.Server\\ClientWorker.cs",
+              "RelativeDocumentMoniker": "Tcp_Server.Server\\ClientWorker.cs",
+              "ToolTip": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Tcp_Server.Server\\ClientWorker.cs",
+              "RelativeToolTip": "Tcp_Server.Server\\ClientWorker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:20:37.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientManager.cs",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Tcp_Server.Server\\ClientManager.cs",
+              "RelativeDocumentMoniker": "Tcp_Server.Server\\ClientManager.cs",
+              "ToolTip": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Tcp_Server.Server\\ClientManager.cs",
+              "RelativeToolTip": "Tcp_Server.Server\\ClientManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:23:11.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Tcp_Server.Client\\Program.cs",
+              "RelativeDocumentMoniker": "Tcp_Server.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Tcp_Server.Client\\Program.cs",
+              "RelativeToolTip": "Tcp_Server.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:41:12.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Tcp_Server.Client\\Client.cs",
+              "RelativeDocumentMoniker": "Tcp_Server.Client\\Client.cs",
+              "ToolTip": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Tcp_Server.Client\\Client.cs",
+              "RelativeToolTip": "Tcp_Server.Client\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:32:37.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Program\\Program.cs",
+              "RelativeDocumentMoniker": "Program\\Program.cs",
+              "ToolTip": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Program\\Program.cs",
+              "RelativeToolTip": "Program\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:52:56.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Tcp_Server.Client/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Tcp_Server.Client.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tcp_Server.Client.dll": {}
+        }
+      },
+      "Tcp_Server.Server/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Tcp_Server.Server.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tcp_Server.Server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tcp_Server.Client/1.0.0": {
+      "type": "project",
+      "path": "../Tcp_Server.Client/Tcp_Server.Client.csproj",
+      "msbuildProject": "../Tcp_Server.Client/Tcp_Server.Client.csproj"
+    },
+    "Tcp_Server.Server/1.0.0": {
+      "type": "project",
+      "path": "../Tcp_Server.Server/Tcp_Server.Server.csproj",
+      "msbuildProject": "../Tcp_Server.Server/Tcp_Server.Server.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Tcp_Server.Client >= 1.0.0",
+      "Tcp_Server.Server >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Viktor\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Program\\Program.csproj",
+      "projectName": "Program",
+      "projectPath": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Program\\Program.csproj",
+      "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Program\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Viktor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Tcp_Server.Client\\Tcp_Server.Client.csproj": {
+              "projectPath": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Tcp_Server.Client\\Tcp_Server.Client.csproj"
+            },
+            "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Tcp_Server.Server\\Tcp_Server.Server.csproj": {
+              "projectPath": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\Tcp_Server\\Tcp_Server.Server\\Tcp_Server.Server.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

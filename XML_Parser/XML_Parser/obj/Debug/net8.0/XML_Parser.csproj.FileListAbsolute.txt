@@ -1,0 +1,14 @@
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\XML_Parser\XML_Parser\obj\Debug\net8.0\XML_Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\XML_Parser\XML_Parser\obj\Debug\net8.0\XML_Parser.AssemblyInfoInputs.cache
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\XML_Parser\XML_Parser\obj\Debug\net8.0\XML_Parser.AssemblyInfo.cs
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\XML_Parser\XML_Parser\obj\Debug\net8.0\XML_Parser.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\XML_Parser\XML_Parser\bin\Debug\net8.0\XML_Parser.exe
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\XML_Parser\XML_Parser\bin\Debug\net8.0\XML_Parser.deps.json
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\XML_Parser\XML_Parser\bin\Debug\net8.0\XML_Parser.runtimeconfig.json
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\XML_Parser\XML_Parser\bin\Debug\net8.0\XML_Parser.dll
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\XML_Parser\XML_Parser\bin\Debug\net8.0\XML_Parser.pdb
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\XML_Parser\XML_Parser\obj\Debug\net8.0\XML_Parser.dll
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\XML_Parser\XML_Parser\obj\Debug\net8.0\refint\XML_Parser.dll
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\XML_Parser\XML_Parser\obj\Debug\net8.0\XML_Parser.pdb
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\XML_Parser\XML_Parser\obj\Debug\net8.0\XML_Parser.genruntimeconfig.cache
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\XML_Parser\XML_Parser\obj\Debug\net8.0\ref\XML_Parser.dll

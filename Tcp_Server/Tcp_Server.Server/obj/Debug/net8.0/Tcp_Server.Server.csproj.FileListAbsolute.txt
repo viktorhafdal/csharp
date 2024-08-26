@@ -1,0 +1,14 @@
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Tcp_Server.Server\obj\Debug\net8.0\Tcp_Server.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Tcp_Server.Server\obj\Debug\net8.0\Tcp_Server.Server.AssemblyInfoInputs.cache
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Tcp_Server.Server\obj\Debug\net8.0\Tcp_Server.Server.AssemblyInfo.cs
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Tcp_Server.Server\obj\Debug\net8.0\Tcp_Server.Server.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Tcp_Server.Server\bin\Debug\net8.0\Tcp_Server.Server.exe
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Tcp_Server.Server\bin\Debug\net8.0\Tcp_Server.Server.deps.json
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Tcp_Server.Server\bin\Debug\net8.0\Tcp_Server.Server.runtimeconfig.json
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Tcp_Server.Server\bin\Debug\net8.0\Tcp_Server.Server.dll
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Tcp_Server.Server\bin\Debug\net8.0\Tcp_Server.Server.pdb
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Tcp_Server.Server\obj\Debug\net8.0\Tcp_Server.Server.dll
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Tcp_Server.Server\obj\Debug\net8.0\refint\Tcp_Server.Server.dll
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Tcp_Server.Server\obj\Debug\net8.0\Tcp_Server.Server.pdb
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Tcp_Server.Server\obj\Debug\net8.0\Tcp_Server.Server.genruntimeconfig.cache
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Tcp_Server.Server\obj\Debug\net8.0\ref\Tcp_Server.Server.dll

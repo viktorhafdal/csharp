@@ -1,0 +1,10 @@
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Winforms_HelloWorld\WinFormsHelloWorld\WinFormsHelloWorld\bin\Debug\WinFormsHelloWorld.exe.config
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Winforms_HelloWorld\WinFormsHelloWorld\WinFormsHelloWorld\bin\Debug\WinFormsHelloWorld.exe
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Winforms_HelloWorld\WinFormsHelloWorld\WinFormsHelloWorld\bin\Debug\WinFormsHelloWorld.pdb
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Winforms_HelloWorld\WinFormsHelloWorld\WinFormsHelloWorld\obj\Debug\WinFormsHelloWorld.csproj.AssemblyReference.cache
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Winforms_HelloWorld\WinFormsHelloWorld\WinFormsHelloWorld\obj\Debug\WinFormsHelloWorld.Form1.resources
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Winforms_HelloWorld\WinFormsHelloWorld\WinFormsHelloWorld\obj\Debug\WinFormsHelloWorld.Properties.Resources.resources
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Winforms_HelloWorld\WinFormsHelloWorld\WinFormsHelloWorld\obj\Debug\WinFormsHelloWorld.csproj.GenerateResource.cache
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Winforms_HelloWorld\WinFormsHelloWorld\WinFormsHelloWorld\obj\Debug\WinFormsHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Winforms_HelloWorld\WinFormsHelloWorld\WinFormsHelloWorld\obj\Debug\WinFormsHelloWorld.exe
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Winforms_HelloWorld\WinFormsHelloWorld\WinFormsHelloWorld\obj\Debug\WinFormsHelloWorld.pdb

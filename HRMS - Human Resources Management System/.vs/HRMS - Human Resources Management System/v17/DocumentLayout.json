@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\HRMS - Human Resources Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C365A00E-6FE1-498B-BBDD-4B115DAE3395}|HRMS.Presentation\\HRMS.Presentation.csproj|c:\\users\\viktor\\documents\\github\\side-projects\\csharp\\hrms - human resources management system\\hrms.presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C365A00E-6FE1-498B-BBDD-4B115DAE3395}|HRMS.Presentation\\HRMS.Presentation.csproj|solutionrelative:hrms.presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C365A00E-6FE1-498B-BBDD-4B115DAE3395}|HRMS.Presentation\\HRMS.Presentation.csproj|c:\\users\\viktor\\documents\\github\\side-projects\\csharp\\hrms - human resources management system\\hrms.presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C365A00E-6FE1-498B-BBDD-4B115DAE3395}|HRMS.Presentation\\HRMS.Presentation.csproj|solutionrelative:hrms.presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\HRMS - Human Resources Management System\\HRMS.Presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "HRMS.Presentation\\Form1.cs",
+              "ToolTip": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\HRMS - Human Resources Management System\\HRMS.Presentation\\Form1.cs",
+              "RelativeToolTip": "HRMS.Presentation\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:45:48.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\HRMS - Human Resources Management System\\HRMS.Presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "HRMS.Presentation\\Form1.cs",
+              "ToolTip": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\HRMS - Human Resources Management System\\HRMS.Presentation\\Form1.cs [Design]",
+              "RelativeToolTip": "HRMS.Presentation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:45:25.607Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
