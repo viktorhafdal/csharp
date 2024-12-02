@@ -17,12 +17,18 @@
       },
       "Tcp_Server.Client/1.0.0": {
         "runtime": {
-          "Tcp_Server.Client.dll": {}
+          "Tcp_Server.Client.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Tcp_Server.Server/1.0.0": {
         "runtime": {
-          "Tcp_Server.Server.dll": {}
+          "Tcp_Server.Server.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

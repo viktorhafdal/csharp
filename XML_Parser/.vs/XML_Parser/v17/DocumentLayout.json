@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\XML_Parser\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1A687AA0-C78A-43D6-B175-0D20EA39117B}|XML_Parser\\XML_Parser.csproj|c:\\users\\viktor\\documents\\github\\side-projects\\csharp\\xml_parser\\xml_parser\\newactors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1A687AA0-C78A-43D6-B175-0D20EA39117B}|XML_Parser\\XML_Parser.csproj|solutionrelative:xml_parser\\newactors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1A687AA0-C78A-43D6-B175-0D20EA39117B}|XML_Parser\\XML_Parser.csproj|c:\\users\\viktor\\documents\\github\\side-projects\\csharp\\xml_parser\\xml_parser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A687AA0-C78A-43D6-B175-0D20EA39117B}|XML_Parser\\XML_Parser.csproj|solutionrelative:xml_parser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -29,14 +37,39 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "newActors.xml",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\XML_Parser\\XML_Parser\\newActors.xml",
+              "RelativeDocumentMoniker": "XML_Parser\\newActors.xml",
+              "ToolTip": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\XML_Parser\\XML_Parser\\newActors.xml",
+              "RelativeToolTip": "XML_Parser\\newActors.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-02T06:43:51.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\XML_Parser\\XML_Parser\\Program.cs",
               "RelativeDocumentMoniker": "XML_Parser\\Program.cs",
               "ToolTip": "C:\\Users\\Viktor\\Documents\\GitHub\\Side-Projects\\csharp\\XML_Parser\\XML_Parser\\Program.cs",
               "RelativeToolTip": "XML_Parser\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA8AAAAjAAAA",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwEAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T11:13:36.584Z",
               "EditorCaption": ""

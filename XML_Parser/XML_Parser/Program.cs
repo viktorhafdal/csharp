@@ -58,7 +58,7 @@ namespace XML_Parser {
                 using (StreamWriter sw = new(fs))
                 using (XmlTextWriter xmlWriter = new(sw)) {
                     xmlWriter.Formatting = Formatting.Indented; //Formatting the file with indentation, so it's not printed to one line.
-                    xmlWriter.Indentation = 4;
+                    xmlWriter.Indentation = 2;
 
                     xmlWriter.WriteStartDocument(); //Including start xml declaration
                     xActors.WriteTo(xmlWriter); //Writing actors element to file

@@ -12,3 +12,4 @@ C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Tcp_Server.Serv
 C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Tcp_Server.Server\obj\Debug\net8.0\Tcp_Server.Server.pdb
 C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Tcp_Server.Server\obj\Debug\net8.0\Tcp_Server.Server.genruntimeconfig.cache
 C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Tcp_Server.Server\obj\Debug\net8.0\ref\Tcp_Server.Server.dll
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Tcp_Server.Server\obj\Debug\net8.0\Tcp_Server.Server.sourcelink.json

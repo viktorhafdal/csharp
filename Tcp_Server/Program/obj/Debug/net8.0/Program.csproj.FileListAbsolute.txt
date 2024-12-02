@@ -24,3 +24,4 @@ C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Program\obj\Deb
 C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Program\obj\Debug\net8.0\Program.pdb
 C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
 C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Program\obj\Debug\net8.0\ref\Program.dll
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\Tcp_Server\Program\obj\Debug\net8.0\Program.sourcelink.json

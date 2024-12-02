@@ -12,3 +12,4 @@ C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\XML_Parser\XML_Parser\obj\
 C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\XML_Parser\XML_Parser\obj\Debug\net8.0\XML_Parser.pdb
 C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\XML_Parser\XML_Parser\obj\Debug\net8.0\XML_Parser.genruntimeconfig.cache
 C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\XML_Parser\XML_Parser\obj\Debug\net8.0\ref\XML_Parser.dll
+C:\Users\Viktor\Documents\GitHub\Side-Projects\csharp\XML_Parser\XML_Parser\obj\Debug\net8.0\XML_Parser.sourcelink.json
